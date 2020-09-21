@@ -22,3 +22,4 @@ pip install flask-wtf
 #Section 4 - Database Support
 pip install flask-sqlalchemy
 pip install flask-migrate
+pip install pylint-flask

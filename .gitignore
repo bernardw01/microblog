@@ -1,2 +1,11 @@
+#Ignore the virtual environment
 /venv
+
+# This installs PIP in the virtual environment if needed
 get-pip.py
+
+#Ignore SQLLite DB
+app.db
+
+#Ignore local vscode settings
+.vscode
