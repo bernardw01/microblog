@@ -23,3 +23,7 @@ pip install flask-wtf
 pip install flask-sqlalchemy
 pip install flask-migrate
 pip install pylint-flask
+
+#Section 5 - Log in functionality
+pip install flask-login
+pip install email-validator
