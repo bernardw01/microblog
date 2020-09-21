@@ -11,6 +11,7 @@ python3 -m venv venv
 source "venv/Scripts/activate"
 export FLASK_APP=microblog.py
 
+
 ### Installation packages ###
 #Section 1 - Initial Installation
 pip install flask
