@@ -1,1 +1,1 @@
-#Runtime commands to start the server
+#Runtime commands to build the solution

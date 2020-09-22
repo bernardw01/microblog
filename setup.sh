@@ -4,10 +4,11 @@
 #Directory Configuration
 mkdir microblog
 cd microblog
-python3 -m venv venv
+
 
 
 # Virtual environment configuration
+python3 -m venv venv
 source "venv/Scripts/activate"
 export FLASK_APP=microblog.py
 
