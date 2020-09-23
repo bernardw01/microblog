@@ -11,6 +11,7 @@ cd microblog
 python3 -m venv venv
 source "venv/Scripts/activate"
 export FLASK_APP=microblog.py
+export FLASK_DEBUG=1
 
 
 ### Installation packages ###
