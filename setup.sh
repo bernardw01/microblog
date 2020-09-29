@@ -15,6 +15,7 @@ export FLASK_DEBUG=1
 export MAIL_SERVER=localhost
 export MAIL_PORT=8025
 
+
 ### Installation packages ###
 #Section 1 - Initial Installation
 pip install flask
